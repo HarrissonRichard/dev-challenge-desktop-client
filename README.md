@@ -6,7 +6,8 @@
   - Ao editar os dados do produto a partir da GUI deverá atualizar os dados na API do Reqwest e guardar localmente na base de dados SQL Server.
 
 # Esse repositório contém apenas o código do cliente rest (desktop app)
-* Responsavel por efectuar as operaçoes de criação edição e retornar os produtos da base de dados local.
+* Responsavel por efectuar as operaçoes de criação edição e visualizar os produtos da base de dados local apartir de uma GUI.
+* o repositório também contém blocos de código responsaveis pela sincronização com a API remota REKWEST
 * Para ver o código do servidor restlocal (API local) clique no link <a href="https://github.com/HarrissonRichard/dev-challenge-webapi" target="_blank">Servidor Rest - ASP.NET Core Web API </a>
 
 # Tecnologias
@@ -15,9 +16,9 @@
 - Newtonsoft.Json - dependência do Refit para operações internas de serialização e deserialização.
 
 # Funcionalidades:
-* Visualizar todos os produtos base de dados local SQL SERVER numa interface gráfica
-* Adicionar um novo produto na base de dados local(se comunicando com a API local) e remotamente (Rekwest API)
-* Editar dados de um produto e actualizar localmente(se comunicando com a API) e remotamente com rekwest API
+* Visualizar todos os produtos base de dados local SQL SERVER numa GUI
+* Adicionar um novo produto na base de dados local(se comunicando com a API local) e remotamente (Rekwest API) usando uma GUI 
+* Editar dados de um produto e actualizar localmente(se comunicando com a API) e remotamente com rekwest API usando uma GUI
 
 # Testes
 - 1. para executar localmente, a aplicação depende de .NET 4.7.2 SDK 
