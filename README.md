@@ -1,11 +1,9 @@
-# Soluçao do deafio para criar um aplicação rest em C#.
+# Soluçao do desáfio para criar um aplicação rest em C#.
 O desáfio pede que as seguintes condicoes sejam satisfeitas:
 Ao criar os dados de um produto a partir da GUI deverá guardar na API do Reqwest e guardar localmente na base de dados SQL Server;
 Ao editar os dados do produto a partir da GUI deverá atualizar os dados na API do Reqwest e guardar localmente na base de dados SQL Server.
 
-
-# Solução do desafio para criar um Rest Client em C#
-A GUI foi desenvolvida usanado Windows Form e as funcionalidaes do cliente implementadas com Libraries(.dll)
+Esse repositorio contem o codigo do clien rest(desktop app)
 
 # Funcionalidades
 a presente aplicação apresenta as seguintes funcionalidades a partir da GUI:
