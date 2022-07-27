@@ -14,7 +14,7 @@ a presente aplicação apresenta as seguintes funcionalidades a partir da GUI:
 * Editar dados de um produto e actualizar localmente assim como na API rekwest
 
 # Testes
-para testar a aplicação é preciso antes iniciar o servidor, cujo o código está nesse <a href="">repositório</a> para que possa persistir os dados localmente  e depois sincroniza-los remotamente com API rekwest. 
+para testar a aplicação é preciso antes iniciar o servidor, cujo o código está nesse <a href="https://github.com/HarrissonRichard/dev-challenge-webapi">repositório</a> para que possa persistir os dados localmente  e depois sincroniza-los remotamente com API rekwest. 
 
 # Sobre mim
 Harrisson Richard
