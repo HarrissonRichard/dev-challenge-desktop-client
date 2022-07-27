@@ -1,18 +1,18 @@
 # dev-challenge-desktop-client
-# Soluçao do desáfio para criar uma aplicação rest em C#.
+# Solução do desáfio para criar uma aplicação rest em C#.
 * O Desáfio pede para elaborar uma interface gráfica em C# para poder criar, listar e editar os dados de um produto e sincronizar com a API do Reqwest.
 * O desáfio também pede que as seguintes condiçoões sejam satisfeitas:
   - Ao criar os dados de um produto a partir da GUI deverá guardar na API do Reqwest e guardar localmente na base de dados SQL Server;
   - Ao editar os dados do produto a partir da GUI deverá atualizar os dados na API do Reqwest e guardar localmente na base de dados SQL Server.
 
-# Esse repositorio contém apenas o código do cliente rest (desktop app)
+# Esse repositório contém apenas o código do cliente rest (desktop app)
 * Responsavel por efectuar as operaçoes de criação edição e retornar os produtos da base de dados local.
-* Para ver o código do servidor rest(webapi) clique no link <a href="https://github.com/HarrissonRichard/dev-challenge-webapi" target="_blank">Servidor Rest - ASP.NET Core Web API </a>
+* Para ver o código do servidor restlocal (API local) clique no link <a href="https://github.com/HarrissonRichard/dev-challenge-webapi" target="_blank">Servidor Rest - ASP.NET Core Web API </a>
 
 # Tecnologias
 - Refit - para se comunicar com a API local e remota(rekwest)
 - Aplicativo do Windows Forms - para criar a interface gráfica
-- Newtonsoft.Json - dependencia do Refit para operações internas de serialização e deserializção.
+- Newtonsoft.Json - dependência do Refit para operações internas de serialização e deserialização.
 
 # Funcionalidades:
 * Visualizar todos os produtos base de dados local SQL SERVER numa interface gráfica
