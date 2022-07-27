@@ -21,10 +21,12 @@
 * Editar dados de um produto e actualizar localmente(se comunicando com a API) e remotamente com rekwest API usando uma GUI
 
 # Testes
-- 1. para executar localmente, a aplicação depende de .NET 4.7.2 SDK 
-- 2. Refit na versão 4.0.0
-- 3. Newtonsoft.Json versão 10.0.3 
+- 1. para executar localmente, a aplicação depende de .NET 4.7.2 SDK
 - 2. Clonar este repositótio e abrir com o visual studio 2015 ou superior
+- 3. executar o comando <b>dotnet restore</b>
+- 4. selecionar o projecto RestClient como StartUp project na aba de Solution Explorer
+- 5. Executar 
+
 
 # Sobre mim
 Harrisson Richard
