@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientLibray", "RestClientLibray\RestClientLibray.csproj", "{65717A59-814D-4C57-80E8-F66727204D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientUI", "RestClientUI\RestClientUI.csproj", "{12CE7167-63D3-43B3-BE4E-B51FB3BE8E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65717A59-814D-4C57-80E8-F66727204D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65717A59-814D-4C57-80E8-F66727204D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65717A59-814D-4C57-80E8-F66727204D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65717A59-814D-4C57-80E8-F66727204D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CE7167-63D3-43B3-BE4E-B51FB3BE8E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CE7167-63D3-43B3-BE4E-B51FB3BE8E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CE7167-63D3-43B3-BE4E-B51FB3BE8E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CE7167-63D3-43B3-BE4E-B51FB3BE8E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
