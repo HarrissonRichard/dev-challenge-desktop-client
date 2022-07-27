@@ -209,14 +209,14 @@
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(374, 242);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(52, 25);
+            this.label1.Size = new System.Drawing.Size(86, 25);
             this.label1.TabIndex = 33;
-            this.label1.Text = "VAT:";
+            this.label1.Text = "Inactive:";
             // 
             // inactiveToUpdateValue
             // 
             this.inactiveToUpdateValue.AutoSize = true;
-            this.inactiveToUpdateValue.Location = new System.Drawing.Point(446, 250);
+            this.inactiveToUpdateValue.Location = new System.Drawing.Point(466, 250);
             this.inactiveToUpdateValue.Name = "inactiveToUpdateValue";
             this.inactiveToUpdateValue.Size = new System.Drawing.Size(63, 17);
             this.inactiveToUpdateValue.TabIndex = 34;
