@@ -1,4 +1,4 @@
-# dev-challenge-webapi
+# dev-challenge-desktop-client
 # Soluçao do desáfio para criar uma aplicação rest em C#.
 * O Desáfio pede para elaborar uma interface gráfica em C# para poder criar, listar e editar os dados de um produto e sincronizar com a API do Reqwest.
 * O desáfio também pede que as seguintes condiçoões sejam satisfeitas:
