@@ -20,7 +20,7 @@
 * Adicionar um novo produto na base de dados local(se comunicando com a API local) e remotamente (Rekwest API) usando uma GUI 
 * Editar dados de um produto e actualizar localmente(se comunicando com a API) e remotamente com rekwest API usando uma GUI
 # DEMO
-* para ver uma demonstração das funcionalidades da aplicacao clique no link <a href="https://youtu.be/-x6EJRh0ELA">DEMO</a> 
+* para ver uma demonstração das funcionalidades da aplicação clique no link <a href="https://youtu.be/-x6EJRh0ELA">DEMO</a> 
 
 # Testes
 - 1. para executar localmente, a aplicação depende de .NET 4.7.2 SDK
